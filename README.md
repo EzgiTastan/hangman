@@ -5,9 +5,11 @@ A fun and educational Hangman game for kids with animal-related words. Players g
 - **Animal Words**: Guess words related to animals.
 - **Interactive Gameplay**: Feedback on each guess, showing correct and incorrect letters.
 - **Visual Hangman**: See the hangman figure appear with each wrong guess.
+ ![Screenshot_67](https://github.com/EzgiTastan/hangman/assets/139014781/d45b9a34-a7c0-4cc9-a3c4-ca68fe688b56)
+
 - **Easy to Play**: Simple text-based interface.
 
-## Rules
+## Rules (yeah, we all know that)
 1. The game selects a random word related to animals. To see my animal-related-words list, [click](https://github.com/EzgiTastan/hangman/blob/main/hangman_words.py).
 2. Players guess one letter at a time.
 3. Correct guesses reveal the letter's position in the word.
